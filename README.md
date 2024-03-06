@@ -1,5 +1,7 @@
 # vscode-java-compiler-args
-Minimal project to reproduce the issue that VSCode doesn't obey javac compiler args from pom.xml
+Minimal project to reproduce the issue that VSCode doesn't obey javac compiler args from pom.xml:
+
+https://github.com/redhat-developer/vscode-java/issues/3518
 
 Clone the repo and compile with ```mvn compile```.  Note that no errors or warnings are produced:
 
